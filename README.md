@@ -9,7 +9,7 @@
 - 🎓 Sou graduado em [Automação Industrial](https://fatecosasco.edu.br/osasco/index.php/automacao-industrial/) na @[FATEC - Osasco](https://fatecosasco.edu.br/)
 - 🎓 Também sou formado como Téc. em Eletrônica na POLITEC "Álvares de Azevedo"
 
-💼 Atualmente eu trabalho como ***Técnico em eletrônica*** realizando reparo em equipamentos de áudio e vídeo (Equipamentos de video projeção, painéis de led, processadores de imagem). 
+💼 Atualmente eu trabalho como ***Técnico em eletrônica*** realizando reparo em equipamentos de vídeo (Equipamentos de video projeção, painéis de led, processadores de imagem). 
 
 🔎 **Também sou curioso sobre ***Inteligência artificial e IoT*****
 
