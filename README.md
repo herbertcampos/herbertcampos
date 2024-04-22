@@ -5,15 +5,15 @@
 
 💻 Eu sou estudante e tenho interesse em [Cloud Computing | Data Science | Front-End | Back-End ]
 
-🎓 Eu estudo [[Bacharel de Tecnologia da Informação](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao)]  @ [ [UNIVESP](https://univesp.br/) ]
-- 🎓 Sou graduado em [Automação Industrial] @ [ [FATEC - Osasco](https://fatecosasco.edu.br/) ]
-- 🎓 Também sou formado como [Téc. em Eletrônica] @ POLITEC "Álvares de Azevedo"
+🎓 Eu estudo [Bacharel de Tecnologia da Informação](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao) na @[UNIVESP](https://univesp.br/)
+- 🎓 Sou graduado em [Automação Industrial](https://fatecosasco.edu.br/osasco/index.php/automacao-industrial/) na @[FATEC - Osasco](https://fatecosasco.edu.br/)
+- 🎓 Também sou formado como Téc. em Eletrônica na POLITEC "Álvares de Azevedo"
 
-💼 Atualmente eu trabalho como [Técnico em eletrônica] realizando reparo em equipamentos de áudio e vídeo (Equipamentos de video projeção, painéis de led, processadores de imagem). 
+💼 Atualmente eu trabalho como ***Técnico em eletrônica*** realizando reparo em equipamentos de áudio e vídeo (Equipamentos de video projeção, painéis de led, processadores de imagem). 
 
-🔎 **Também sou curioso sobre [Inteligência artificial e IoT]**
+🔎 **Também sou curioso sobre ***Inteligência artificial e IoT*****
 
-### **Durante minha jornada de estudos essas foram algumas ferramentas nas quais trabalhei e continuo estudando... :wrench::hammer:**
+**Durante minha jornada de estudos essas foram algumas ferramentas e tecnologias nas quais trabalhei e continuo estudando... :wrench::hammer:**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
