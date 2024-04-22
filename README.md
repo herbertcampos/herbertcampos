@@ -13,7 +13,7 @@
 
 🔎 **Também sou curioso sobre ***Inteligência artificial e IoT*****
 
-**Durante minha jornada de estudos essas foram algumas ferramentas e tecnologias nas quais trabalhei e continuo estudando... :wrench::hammer:**
+**Durante minha jornada de estudos essas foram algumas ferramentas e tecnologias nas quais tive contato e continuo a estudanda-las... :wrench::hammer:**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
